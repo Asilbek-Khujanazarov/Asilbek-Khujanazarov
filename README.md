@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Asilbek-Khujanazarov
+- 👀 I’m interested in .Net core,angular and unity
+- 🌱 I’m currently learning .Net core,angular and unity
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me asilbekpersonal@gmail.com
